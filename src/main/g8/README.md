@@ -1,4 +1,4 @@
-## TASTy Inspector template project
+## sbt project compiled with Dotty
 
 ### Usage
 
